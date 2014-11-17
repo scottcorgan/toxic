@@ -1,7 +1,7 @@
 {
   "name": "toxic",
   "version": "1.0.0",
-  "description": "Mutate keys and values in Javascript objects",
+  "description": "Mutate keys and values in objects. Returns a new version of the object",
   "main": "index.js",
   "scripts": {
     "test": "node test.js | tap-spec"
